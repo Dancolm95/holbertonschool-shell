@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /tmp/my_first_repository
+cd home mkdir /tmp/my_first_repository
