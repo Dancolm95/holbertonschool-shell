@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x /permissions/hola
+chmod u+x . /hola
